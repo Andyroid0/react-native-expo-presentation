@@ -1,0 +1,34 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "icon": "./icon.png",
+    "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "anydroid0"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "a1ecee2f-38dd-4bf4-846b-3170f7031775"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "sdkVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/a1ecee2f-38dd-4bf4-846b-3170f7031775"
+    },
+    "android": {
+      "package": "com.andyroid0.expoupdatefinished"
+    },
+    "ios": {
+      "bundleIdentifier": "com.andyroid0.expoupdatefinished"
+    }
+  }
+}

@@ -1,0 +1,6 @@
+- npx expo install @react-native-async-storage/async-storage
+- npm install zustand
+- open electron-builder on another screen or computer drop in the differences
+    - context/useBearStore.ts
+    - components/BearButton.tsx 
+    - components/BearCounter.tsx

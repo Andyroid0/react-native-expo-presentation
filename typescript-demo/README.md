@@ -1,0 +1,2 @@
+- touch tsconfig.json
+- npm run start
